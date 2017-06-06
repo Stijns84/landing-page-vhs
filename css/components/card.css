@@ -1,0 +1,31 @@
+.card {
+  background-color: white;
+  height: 870px;
+  border-radius: 4px;
+  margin: 20px 10px;
+  overflow: auto;
+  box-shadow: 1px 1px 1px #b3b3b3;
+}
+
+.card .info {
+  padding: 15px 15px 0 15px;
+}
+
+.card img {
+  border-radius: 4px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.card .info {
+  font-size: 1.3em;
+  font-weight: lighter;
+}
+
+.card .opening-hours {
+  padding: 0 15px 15px 15px;
+}
+
+.opening-hours p {
+  font-weight: lighter;
+}
