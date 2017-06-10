@@ -22,3 +22,11 @@ h3 {
 
 }
 
+ol {
+  list-style: none;
+}
+
+ol > li:before {
+  content: attr(seq) ". ";
+}
+
