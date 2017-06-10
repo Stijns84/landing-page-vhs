@@ -30,3 +30,6 @@ ol > li:before {
   content: attr(seq) ". ";
 }
 
+#mifid {
+  margin: 30px 0;
+}
